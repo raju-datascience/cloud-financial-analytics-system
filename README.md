@@ -1,4 +1,4 @@
-# ☁️ Cloud Financial Analytics System
+# ☁️ Cloud-Based Financial Analytics System
 
 ## 📌 Project Overview
 This project builds an **end-to-end cloud-based financial analytics system** that transforms raw financial data into actionable insights.
