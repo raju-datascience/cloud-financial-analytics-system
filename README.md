@@ -130,7 +130,7 @@ These insights help users **identify spending patterns and improve financial pla
 A short walkthrough explaining the **architecture, ETL pipeline, and dashboard insights**.
 
 👉 Demo Video  
-`https://youtu.be/254mKpbU7r0`
+https://youtu.be/254mKpbU7r0
 
 ---
 
